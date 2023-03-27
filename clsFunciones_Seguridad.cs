@@ -7,7 +7,7 @@ namespace lbyParaleXcode
 {
     public class clsFunciones_Seguridad
     {
-        private string sClave_Autorizacion = "T8H2yZUKWpMvUxLOvF";
+        private string sClave_Autorizacion = "T8H2yZUKWpMvUxLOvFoiweri3423400234ksdf";
 
         public string Generar_GUID()
         {
