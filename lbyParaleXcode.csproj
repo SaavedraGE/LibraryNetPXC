@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>PXC.Util.lbyParaleXcode</PackageId>
+    <Authors>Saavedra G. Emmanuel</Authors>
+    <Company>ParaleXcode</Company>
+    <Description>Funciones de conexion y trabajo de datos.</Description>
+    <PackageTags>ParaleXcode, paralexcode, web, wcf, webapi</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWN81FxVaEmUmz5iY6A14mZOVKnmNgUVkG/ns8O4hcNxcVHcqji8sfjDEF2/Qbp5rfM8wy/1otGTE/IBWCWWXA==",
+  "success": true,
+  "projectFilePath": "E:\\PROYECTOS\\INVESTIGACION\\PRY-GITKRAKEN\\PUBLIC\\LibraryNetPXC\\lbyParaleXcode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Emma\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

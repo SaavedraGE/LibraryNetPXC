@@ -1,0 +1,9 @@
+E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\bin\Debug\netstandard2.0\lbyParaleXcode.deps.json
+E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\bin\Debug\netstandard2.0\lbyParaleXcode.dll
+E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\bin\Debug\netstandard2.0\lbyParaleXcode.pdb
+E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\obj\Debug\netstandard2.0\lbyParaleXcode.AssemblyInfoInputs.cache
+E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\obj\Debug\netstandard2.0\lbyParaleXcode.AssemblyInfo.cs
+E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\obj\Debug\netstandard2.0\lbyParaleXcode.dll
+E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\obj\Debug\netstandard2.0\lbyParaleXcode.pdb
+E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\obj\Debug\netstandard2.0\lbyParaleXcode.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\obj\Debug\netstandard2.0\lbyParaleXcode.csprojAssemblyReference.cache

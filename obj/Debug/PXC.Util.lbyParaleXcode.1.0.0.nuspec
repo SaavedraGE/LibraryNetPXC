@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PXC.Util.lbyParaleXcode</id>
+    <version>1.0.0</version>
+    <authors>Saavedra G. Emmanuel</authors>
+    <owners>Saavedra G. Emmanuel</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Funciones de conexion y trabajo de datos.</description>
+    <tags>ParaleXcode, paralexcode, web, wcf, webapi</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="HtmlRenderer.PdfSharp" version="1.5.1-beta1" exclude="Build,Analyzers" />
+        <dependency id="IronPdf" version="2020.10.3.3" exclude="Build,Analyzers" />
+        <dependency id="PdfSharp" version="1.51.5185-beta" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\PROYECTOS\PRY-PARALEXCODE\SHARED LIBRARY\lbyParaleXcode\bin\Debug\netstandard2.0\lbyParaleXcode.dll" target="lib\netstandard2.0\lbyParaleXcode.dll" />
+  </files>
+</package>
